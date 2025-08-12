@@ -27,7 +27,7 @@ print("Day \t\tPeriod1 \t Period2 \tPeriod3\nMonday \t\tEnglish \tyoruba \t\tFre
 # # name
 # # class
 # best subject
-name = "Adeoye Mary Oluwafunmilayo"
+name ="Adeoye Mary Oluwafunmilayo"
 my_class= "primary_one"
 best_subject = "civic"
 print(f" My name is {name}.\n My class is {my_class}.\n My best subject is {best_subject}.\n")
